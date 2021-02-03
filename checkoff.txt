@@ -1,0 +1,1 @@
+git remote is used to create a repo accessable outside of your local machine.
